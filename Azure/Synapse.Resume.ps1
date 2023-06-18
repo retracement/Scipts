@@ -1,3 +1,5 @@
+# Copyright (c) 2023 Mark Broadbent under license detailed at https://github.com/retracement/Scripts/blob/main/LICENSE
+# Please read and agree to these terms and conditions of use before proceeding.
 [CmdletBinding()]
 param (
     [Parameter(Mandatory=$false)]
